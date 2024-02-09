@@ -1,2 +1,2 @@
-# STUDENT-GRADE-CALCULATOR
-Task created for CodSoft Internship.
+# What we have to do?
+
